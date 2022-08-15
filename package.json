@@ -1,0 +1,9 @@
+{
+  "name": "newspic",
+  "version": "1.0.0",
+  "description": "뉴스픽 파트너스 API를 위한 패키지",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
